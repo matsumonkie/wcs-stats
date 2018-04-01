@@ -1,0 +1,2 @@
+class RegistryPoint < ApplicationRecord
+end
