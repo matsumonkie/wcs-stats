@@ -1,0 +1,31 @@
+{
+  "type": "dancer",
+  "dancer": {
+    "id": 16800,
+    "first_name": "Lori",
+    "last_name": "Matsuhara",
+    "wscid": 17134
+  },
+  "placements": {
+    "West Coast Swing": [{
+      "division": {
+        "id": 3,
+        "name": "Newcomer",
+        "abbreviation": "NEW"
+      },
+      "total_points": 1,
+      "competitions": [{
+        "role": "leader",
+        "points": 1,
+        "event": {
+          "id": 186,
+          "name": "West In Lyon",
+          "location": "Lyon, France",
+          "url": "",
+          "date": "March 2018"
+        },
+        "result": "F"
+      }]
+    }]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "type": "dancer",
+  "dancer": {
+    "id": 686,
+    "first_name": "Kyle",
+    "last_name": "Redd",
+    "wscid": 719
+  },
+  "placements": {
+    "West Coast Swing": [{
+      "division": {
+        "id": 9,
+        "name": "Invitational",
+        "abbreviation": "INV"
+      },
+      "total_points": 166,
+      "competitions": [{
+        "role": "leader",
+        "points": 2,
+        "event": {
+          "id": 196,
+          "name": "SwingCouver",
+          "location": "Vancouver, Canada",
+          "url": "",
+          "date": "January 2015"
+        },
+        "result": "4"
+      }, {
+        "role": "leader",
+        "points": 3,
+        "event": {
+          "id": 66,
+          "name": "Swingtime in the Rockies",
+          "location": "Denver, CO",
+          "url": "",
+          "date": "August 2003"
+        },
+        "result": "4"
+      }]
+    }, {
+      "division": {
+        "id": 7,
+        "name": "Champions",
+        "abbreviation": "CHMP"
+      },
+      "total_points": 628,
+      "competitions": [{
+        "role": "leader",
+        "points": 2,
+        "event": {
+          "id": 18,
+          "name": "Seattle's Easter Swing",
+          "location": "Bellevue, WA",
+          "url": "",
+          "date": "April 2018"
+        },
+        "result": "2"
+      }, {
+        "role": "leader",
+        "points": 10,
+        "event": {
+          "id": 51,
+          "name": "Palm Springs Summer Dance Classic",
+          "location": "Palm Springs, CA",
+          "url": "",
+          "date": "September 2011"
+        },
+        "result": "1"
+      }, {
+        "role": "leader",
+        "points": 2,
+        "event": {
+          "id": 37,
+          "name": "New Year's Dance Camp",
+          "location": "Palm Springs, CA",
+          "url": null,
+          "date": "January 2011"
+        },
+        "result": "5"
+      }, {
+        "role": "leader",
+        "points": 10,
+        "event": {
+          "id": 126,
+          "name": "Chico Dance Sensation",
+          "location": "Chico, CA",
+          "url": null,
+          "date": "December 2010"
+        },
+        "result": "1"
+      }, {
+        "role": "leader",
+        "points": 8,
+        "event": {
+          "id": 51,
+          "name": "Palm Springs Summer Dance Classic",
+          "location": "Palm Springs, CA",
+          "url": "",
+          "date": "September 2010"
+        },
+        "result": "2"
+      }, {
+        "role": "leader",
+        "points": 1,
+        "event": {
+          "id": 37,
+          "name": "New Year's Dance Camp",
+          "location": "Palm Springs, CA",
+          "url": null,
+          "date": "January 2010"
+        },
+        "result": "F"
+      }, {
+        "role": "leader",
+        "points": 5,
+        "event": {
+          "id": 126,
+          "name": "Chico Dance Sensation",
+          "location": "Chico, CA",
+          "url": null,
+          "date": "October 2009"
+        },
+        "result": "1"
+      }, {
+        "role": "leader",
+        "points": 8,
+        "event": {
+          "id": 51,
+          "name": "Palm Springs Summer Dance Classic",
+          "location": "Palm Springs, CA",
+          "url": "",
+          "date": "September 2008"
+        },
+        "result": "2"
+      }, {
+        "role": "leader",
+        "points": 4,
+        "event": {
+          "id": 126,
+          "name": "Chico Dance Sensation",
+          "location": "Chico, CA",
+          "url": null,
+          "date": "October 2007"
+        },
+        "result": "3"
+      }]
+    }, {
+      "division": {
+        "id": 6,
+        "name": "Advanced",
+        "abbreviation": "ADV"
+      },
+      "total_points": 32,
+      "competitions": [{
+        "role": "leader",
+        "points": 10,
+        "event": {
+          "id": 62,
+          "name": "Monterey SwingFest",
+          "location": "Monterey, CA",
+          "url": "",
+          "date": "January 1997"
+        },
+        "result": "1"
+      }, {
+        "role": "leader",
+        "points": 4,
+        "event": {
+          "id": 65,
+          "name": "Halloween SwingThing",
+          "location": "Torrance, CA",
+          "url": "",
+          "date": "October 1996"
+        },
+        "result": "3"
+      }, {
+        "role": "leader",
+        "points": 4,
+        "event": {
+          "id": 62,
+          "name": "Monterey SwingFest",
+          "location": "Monterey, CA",
+          "url": "",
+          "date": "January 1996"
+        },
+        "result": "3"
+      }, {
+        "role": "leader",
+        "points": 10,
+        "event": {
+          "id": 28,
+          "name": "Las Vegas Swing Expo",
+          "location": "Las Vegas, NV",
+          "url": null,
+          "date": "January 1996"
+        },
+        "result": "1"
+      }, {
+        "role": "leader",
+        "points": 4,
+        "event": {
+          "id": 20,
+          "name": "FreZno Dance Classic",
+          "location": "Fresno, CA",
+          "url": "",
+          "date": "May 1995"
+        },
+        "result": "3"
+      }]
+    }, {
+      "division": {
+        "id": 10,
+        "name": "Professional",
+        "abbreviation": "PRO"
+      },
+      "total_points": 327,
+      "competitions": [{
+        "role": "leader",
+        "points": 4,
+        "event": {
+          "id": 59,
+          "name": "Swing Fling",
+          "location": "Washington Dc, DC",
+          "url": "",
+          "date": "July 2005"
+        },
+        "result": "3"
+      }, {
+        "role": "leader",
+        "points": 3,
+        "event": {
+          "id": 8,
+          "name": "Boogie By The Bay",
+          "location": "San Francisco, CA",
+          "url": "",
+          "date": "October 1996"
+        },
+        "result": "4"
+      }, {
+        "role": "leader",
+        "points": 6,
+        "event": {
+          "id": 1,
+          "name": "4TH of July Convention",
+          "location": "Phoenix, AZ",
+          "url": "",
+          "date": "July 1996"
+        },
+        "result": "2"
+      }]
+    }]
+  }
+}
